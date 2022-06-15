@@ -158,8 +158,8 @@ Then set each variable on `.env.local`:
 - `PAGE_ID` instagram pro account pageid
 
 - other enviroment variables
-  use **[stripe](https://stripe.com/jp) and
-  **[supabase](https://supabase.com/)
+  use [stripe](https://stripe.com/jp) and
+  [supabase](https://supabase.com/)
 
   Your `.env.local` file should look like this:
 
@@ -184,7 +184,7 @@ yarn dev
 
 Your blog should be up and running on [http://localhost:3000](http://localhost:3000)!
 
-### Step 8. Deploy on Vercel
+### Step 7. Deploy on Vercel
 
 ```bash
 npx vercel
