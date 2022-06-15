@@ -1,6 +1,6 @@
-# A statically generated blog example using Next.js and Contentful
+# A menbership subscription application using next.js supabase stripe and contentful
 
-This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [Contentful](https://www.contentful.com/) as the data source.
+This app can charge subscription and manage menbership and post blog automaticaly
 
 ## Demo
 
