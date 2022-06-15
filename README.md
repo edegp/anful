@@ -15,6 +15,7 @@ This app can charge subscription and manage menbership and post blog automatical
 * **ESLint** - The pluggable linting utility.
 * **Axios** - A minimal and flexible Node.js web application framework that handles server-side rendering and integrates with Next.js.
 * **TailwindCss**
+* **Material-ui**
 * **supabase.js**
 * **stripe.js**
 
