@@ -6,9 +6,19 @@ This app can charge subscription and manage menbership and post blog automatical
 
 ### [https://anful.vercel.app/](https://next-blog-contentful.vercel.app/)
 
-## How to use
+## Features
 
-git clone https://github.com/edegp/anful.git
+- **Next.js** - Minimalistic framework for server-rendered React applications.
+- **Typescript** - Superset of JavaScript which primarily provides optional static typing, classes and interfaces.
+
+* **Sass/Scss** - CSS preprocessor, which adds special features such as variables, nested rules and mixins (sometimes referred to as syntactic sugar) into regular CSS.
+* **ESLint** - The pluggable linting utility.
+* **Axios** - A minimal and flexible Node.js web application framework that handles server-side rendering and integrates with Next.js.
+* **TailwindCss**
+* **supabase.js**
+* **stripe.js**
+
+## How to use
 
 ```bash
 git clone https://github.com/edegp/anful.git
