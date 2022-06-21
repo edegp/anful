@@ -27,8 +27,6 @@ git clone https://github.com/edegp/anful.git
 npm i
 ```
 
-### make .env.local
-
 ## Configuration
 
 ### Step 1. Create an account and a space on Contentful
