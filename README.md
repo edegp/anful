@@ -4,7 +4,7 @@ This app can charge subscription and manage menbership and post blog automatical
 
 ## Demo
 
-### [https://anful.vercel.app/](https://next-blog-contentful.vercel.app/)
+### [https://anful.vercel.app/](https://anful.vercel.app/)
 
 ## Features
 
