@@ -27,7 +27,7 @@ git clone https://github.com/edegp/anful.git
 npm i
 ```
 
-###make .env.local
+### make .env.local
 
 ## Configuration
 
